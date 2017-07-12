@@ -2,8 +2,8 @@
 title: 煮汤圆
 date: 2017-07-08 20:34:36
 tags:
-- 甜点
-- 早餐
+- 小食
+- 早点
 thumbnail: /images/zhu-tang-yuan/thumbnail.jpg
 ---
 # 煮汤圆

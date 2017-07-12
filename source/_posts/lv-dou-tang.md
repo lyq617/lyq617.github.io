@@ -2,7 +2,7 @@
 title: 绿豆汤
 date: 2017-07-08 20:31:27
 tags: 
-- 甜点
+- 小食
 - 早点
 thumbnail: /images/lv-dou-tang/thumbnail.jpeg
 ---

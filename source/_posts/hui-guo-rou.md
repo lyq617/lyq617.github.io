@@ -2,8 +2,7 @@
 title: 回锅肉
 date: 2017-07-08 20:34:56
 tags:
-- 做菜
-- Cooking
+- 正餐
 thumbnail: /images/hui-guo-rou/thumbnail.jpeg
 ---
 

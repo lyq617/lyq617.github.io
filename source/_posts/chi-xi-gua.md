@@ -2,7 +2,7 @@
 title: 吃西瓜
 date: 2017-07-09 22:05:50
 tags: 
-- 甜点
+- 小食
 thumbnail: /images/chi-xi-gua/thumbnail.jpg
 ---
 # 吃西瓜
