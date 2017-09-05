@@ -4,10 +4,18 @@
         <!-- Paradox Footer Left Section -->
         <%- partial('_partial/footer-left') %>
 
+        <div class="mdl-mini-footer--left-section">
+            <audio id="player2" preload="auto" controls="" style="max-width:100%;" autoplay=" ">
+                <source src="/audio/Propose - Michiya Haruhata.mp3" type="audio/mp3">
+            </audio>
+        </div>
+
         <!--Copyright-->
         <div id="copyright">
             Copyright&nbsp;©<% if(theme.copyright_since) { %>&nbsp;<%= theme.copyright_since %>&nbsp;-<% } %><script type="text/javascript">var fd = new Date();document.write("&nbsp;" + fd.getFullYear() + "&nbsp;");</script><%- config.title %>
         </div>
+
+        
 
         <!-- Paradox Footer Right Section -->
 
